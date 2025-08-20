@@ -1,0 +1,3 @@
+[submodule "cfg_gpio"]
+	path = cfg_gpio
+	url = git@github.com:jbvalle/cfg_gpio.git
