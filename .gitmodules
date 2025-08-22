@@ -1,3 +1,6 @@
 [submodule "cfg_gpio"]
 	path = cfg_gpio
 	url = git@github.com:jbvalle/cfg_gpio.git
+[submodule "cfg_systick"]
+	path = cfg_systick
+	url = git@github.com:jbvalle/cfg_systick.git
